@@ -1,2 +1,2 @@
-# Doodle-Jump-
+# Doodle-Jump
 Doodle Jump in Javascript
