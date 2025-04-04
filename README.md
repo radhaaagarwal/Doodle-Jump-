@@ -16,5 +16,5 @@ A fun and addictive **Doodle Jump** game built with **HTML5, CSS, and JavaScript
 - **⬅️ Left Arrow** – Move Left  
 - **➡️ Right Arrow** – Move Right  
 
----
+
 
